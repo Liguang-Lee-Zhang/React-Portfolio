@@ -6,7 +6,7 @@ This is a personal portfolio website built using REACT. Aimming to demonstrate m
 
 ## Installation
 
-No installation needed. Proceed to the website at https://intense-basin-99772.herokuapp.com/ to view the portfolio. 
+No installation needed. Proceed to the website at https://liguang-lee-zhang.github.io/React-Portfolio/ to view the portfolio. 
 
 ## License
 
